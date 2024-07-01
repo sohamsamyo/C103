@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 238, 85);
+    text-align: center;
+}
+
+h1 {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(160, 255, 77);
+    font-size: 50px;
+}
+
+.a {
+    height: 10px;
+    border: 1px ridge red;
+    color: red;
+}
+
+#Camera,
+#Snapshot {
+    background-color: rgb(255, 239, 209);
+    border: 2px dotted rgb(255, 101, 81);
+    width: 350px;
+    height: 300px;
+}
+
+span {
+    background-color: rgb(255, 255, 0);
+    font-family: cursive;
+    margin-left:5px;
+
+}
